@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+    <script type="text/javascript">
+      <!--
+        function kansuu(){
+          console.log("OK!")
+        }
+      // -->
+    </script>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  </head>
+  <body>
+    body
+    <script type="text/javascript">
+    <!--
+      console.log("Your code is working!")
+    // -->
+    </script>
+    <noscript>
+      JavaScript 対応ブラウザで表示してください。
+    </noscript>
+  </body>
+</html>
+
+
+
